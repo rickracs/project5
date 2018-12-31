@@ -98,9 +98,8 @@ a {
     text-align:center;
 }
 
-.profile-link {
+#profile-link, #profile-link2{
     display:inline-block;
-    margin:auto;
     padding:30px;
 }
 
